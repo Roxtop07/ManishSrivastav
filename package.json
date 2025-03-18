@@ -1,9 +1,20 @@
 {
-  "homepage": "https://roxtop07.github.io/MANISHSRIVASTAV",
   "name": "manishsrivastav",
-  "private": true,
   "version": "0.0.0",
+  "private": true,
+  "description": "",
+  "homepage": "https://roxtop07.github.io/MANISHSRIVASTAV",
+  "bugs": {
+    "url": "https://github.com/Roxtop07/ManishSrivastav/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roxtop07/ManishSrivastav.git"
+  },
+  "license": "ISC",
+  "author": "",
   "type": "module",
+  "main": "eslint.config.js",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
